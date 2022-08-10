@@ -1,0 +1,630 @@
+#EXTM3U
+#EXTINF:24,maxgoogle.com - Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MNB Sport
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ALL SPORTS
+http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ALL SPORTS
+http://168.205.87.198:8555/live/1431/123456/148.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ALL SPORTS
+http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ALL SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BAND SPORTS
+http://168.205.87.198:8555/live/antony/1234/176.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BAND SPORTS
+http://168.205.87.198:8555/live/1221/123456/176.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BAND SPORTS
+http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BAND SPORTS
+http://168.205.87.198:8555/live/1431/123456/176.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BAND SPORTS
+http://168.205.87.198:8555/live/JOSEE/123456/176.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Diema Sport 2 HD
+http://78.83.191.18:8000/play/a077?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Diema Sport 3 HD
+http://78.83.191.18:8000/play/a07e?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Diema Sport HD
+http://78.83.191.18:8000/play/a076?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Eurosport
+http://78.83.191.18:8000/play/a05y?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Eurosport 2
+http://78.83.191.18:8000/play/a04b?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MAX Sport 1 HD
+http://78.83.191.18:8000/play/a073?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MAX Sport 2 HD
+http://78.83.191.18:8000/play/a074?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MAX Sport 3 HD
+http://78.83.191.18:8000/play/a075?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MAX Sport 4 HD
+http://78.83.191.18:8000/play/a07f?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Nova Sport
+http://78.83.191.18:8000/play/a04a?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sports HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHVRmvqStYiAZb5NRAl1rj0/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - CanBangla TV (1080p) [Not 24/7]
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Golf Channel HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG6QcEv_aSyrSVqUB4kooJo/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - NBA TV HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFQN5tY6WMSXnn2StDN7LTE/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - NFL Network HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJAk1DARxgFCRZ8pu6aVoeI/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sportsnet HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFu9JLaACu6Ff0V5_EuPetM/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVA Sports 2 HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHgJRnyWnzTqFjPPpUTFA2Y/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVA Sports HD (FR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHPmeuWpLyuhCXqg7eNRQ6E/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ----- SKY SPORT -----
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/379525?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ----- SPORT -----
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/135926?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ----- VIP SPORT -----
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378164?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - AUTO MOTOR SPORT CHANNEL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132513?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ESPORTS1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/235606?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FC BAYERN TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/234999?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MOVIE TIME SPORT HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/418602?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30036?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 10 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123025?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 11 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395375?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132797?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30039?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 3 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123018?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 4 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123019?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 5 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123020?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 6 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123021?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 7 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123022?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 8 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123023?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 9 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/123024?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3415?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/29997?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 1 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/356343?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 10 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3414?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3413?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 5 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132803?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 5 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3410?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 6 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132802?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 6 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3409?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 7 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132801?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 9 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3406?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT F1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/330461?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT F1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/366496?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT F1 HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/412606?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT NEWS FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132799?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT NEWS HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3374?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SLTV 24 - 7 TRANSPORTER FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/401051?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3373?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT1+ FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/30357?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT1+ HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3375?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORTDIGITAL FUSSBALL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/235605?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP PRIME VIDEO SPORT (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378504?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 1 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395281?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 10 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395272?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 2 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395280?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 3 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395279?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 4 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395278?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 5 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395277?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 6 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395276?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 7 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395275?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 8 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395274?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP RTL+ SPORT EVENT 9 (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395273?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378153?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 10 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378143?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 11 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395373?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT AUSTRIA 3 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378139?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT AUSTRIA 4 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378138?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT AUSTRIA 5 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/380722?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT AUSTRIA 6 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/380721?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT AUSTRIA 7 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/380720?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378163?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 10 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378154?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378162?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 3 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378161?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 4 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378160?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 5 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378159?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 6 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378158?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 7 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378157?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 8 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378156?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT BUNDESLIGA 9 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378155?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT F1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/397326?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVRI Sport HD (720p)
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FOX SPORTS 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFwfDA8mG-j_5D0fFreI79Q/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FOX SPORTS 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBPs4ao6uxmTHJLUCZAarhU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FOX SPORTS 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMb9SW5iaZfFFg9gZsQ3r2w/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FOX SPORTS 4
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGaInzgzxdfqKtZ7mHDW8tU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FOX SPORTS 5
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMkdFqWKvchcp_2ZENl_gss/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FOX SPORTS 6
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFxrrAAyHsNl32LQDcmHrD8/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ZIGGO SPORT EXTRA 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SB69f4QyHFph5a7a4LDQjoo/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ZIGGO SPORT EXTRA 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPs0Oi9Z2w2NmialkDwgMJU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ZIGGO SPORT RACING
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJUlNamtn5WKZZ818zsQnco/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ZIGGO SPORT SELECT
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDwRJjMLV-zhSj3IXw3V8W0/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ZIGGO SPORT VOETBAL
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHRZDFV5DUReajDE2o5rU7U/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ESPN 1 FHD (Latino)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMsoUuU6v0fxn6tLRK6mPN4/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ESPN 2 FHD (Latino)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBagrr2beChzdTV0Mh2R5GsDarLWz2ialDNQDS2cHGl4/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ESPN 3 FHD (Latino)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SILBiEeLGpIX7VbwZTiEr1jwE_tXYWIidPL3NEZziPqk/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Polsat Sport HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SArlcfOavy11rlBMGfAY9so/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Polsat Sport Premium 1 FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBINpIjbypBpXHkjRDhs7Ks/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Polsat Sport Premium 1 SD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJC4w-E6yzRvHAcO8vFP5_c/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Polsat Sport Premium 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKVyWQaJWg2L05-KiEvcpaBpryoPyRhMRDVaUO3IzIEV/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORTS 24 PREMIER
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOp0Tmet3cSuEp40B2lK-cY/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Premiere League HD (UK)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJnF9lQRajFYsFah4HvW2kk/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Super Sport PL
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNyNNDCUrBBMbK-0aDatiYI/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVP Sport
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDo2IPQ4jMm0MCRJ7W1jfgKFSOwTcGlln45IzEmwdsLf/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - sporttvmais
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sport HD (EN)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAK1RwPLDfDa4ef8_84d1zk/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sports LaLiga
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKsm1QLF590kcaDkeQtuvKI/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Esport 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPdMiXJVN5k_SwJ8gLzlMExzyUqfamTUqOf-2PlVmvIm/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - EuroSport 1 HD P
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPp3fCVAuYo-5VxUytsShq4TBjACgC9jeer_bttFPU7D/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Eurosport 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAFSPB1aJTVPogcnPkP6WEw/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Eurosport 2 HD OPC2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGR20xyLQTRdSIz3vbl9-xOPzn0SnQ8KOixTq0qb8HPl/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - M. DEPORTES 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFw2zf7q3SMphJRKAfsbPhc/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - M. DEPORTES 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SH4ovTfN9SOugDCzUSqlqJA/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - M. DEPORTES 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAcEdapcJLbzepCRw4n_2UM/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - M. DEPORTES 7 (LIVEEVEENT)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOTs1-3Pca0VU3fTQwGHhAc/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - M. DEPORTES 8
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA_Ye6MOfNX5qA4RME0A1dU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MOVISTAR DEPORTES 1 FULL HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMRZlqnWwo9FPomHv2H_Oek/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MOVISTAR DEPORTES 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDK-IF5LGkdlRx7_wJLNBru1SYDsZViSOtXU0fqxgpE9/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - MOVISTAR GOLF  HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIuNgfC32KdEe3gkHox1pUQ/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Multideportes
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBgi2py4oAOS1kTgwrSZtWBtARQVsQqjbrp_BTR02Ozz/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - beINSport LaLiga HD  ( SOLO EVENTOS)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNVWlelcWH-FDud5QTfwMDQ/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BeIN SPORT 1 HD
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BeIN SPORT 3 HD
+https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - My Sports TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Türkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVRI Sport HD (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain+Sports_all/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bahrain Sports 1 (720p) [Not 24/7]
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Canal Motor (720p)
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Canal Motor (720p)
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - EPG : TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ESR eSports Network
+https://eyeonesports.com/ES2RA-628g.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Edge Sport
+https://edgesports-plex.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Edge Sport
+https://edgesport-samsungus.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Edgesports rest of the world
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - El Conflecto!
+https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Fox Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - GRVTY
+https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Insight TV
+https://insight-localnow.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - OF-TV Offenbach
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Outside TV
+https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Red Bull TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Turkmenistan Sport
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ST-TV : Edge Sports
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ST-TV : SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports 2
+http://93.152.174.144:4000/play/skysports2/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports 3
+http://93.152.174.144:4000/play/skysports3/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports News
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports f1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SportsGrid
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sportsgrid
+https://sportsgrid-vizio.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TIGO SPORT HD
+http://tecnotv.club/got/smtv3.php?c=800&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVS Classic Sports (720p)
+http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVS Pinball Network (1080p)
+https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Trace Sport Stars (Australia)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Wired2Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - tv2 - Sport (720p)
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT SPORTS 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SO8KG21vvlujW4BzdbjwU0o/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT SPORTS 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBP8IcIFQjkd_4CiXkvhKnU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT SPORTS 3
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNfyk9pqZv-bBzvb_hxeHnc/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT Sport 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDq0bk4bbCg_rXw6Syt6tvE/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT Sport 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIkek_o452ChjDsjRaPeSuA/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT Sport 3 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLgccH1t-8UXPvXwVqviD9M/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BT Sport ESPN HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM65rqfomBQnbe-ZHVvEtZA/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - FreeSports FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBXTZQavzuVVWaCsen69SyWg5dk_3YAITyueBfyMliNF/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - PREMIER SPORTS 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHEh8C5gs7WlKldLPYm0jSMT4L_VLiRAFaPMV9AdxUNk/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Action
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ9MlI4Vo2JlZVBJ2SHMoCk/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Action
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCz2uXIPtU_foiPmupAG4qk/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Cricket
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPk7JloiAF41bTtKKzVbvo8/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports F1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKOYAP8Ooss_79JCq2inqso/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Golf
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SB_8N53DmQeyU__C3lh4G_E/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Main Event FHD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKp8acESP4wXEf-M9YgodB0/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Main Event HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBW8lP8m2EgPyKzmlGsq39E/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - Sky Sports Premiere League
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ-r5aJ37OTm_JngWDQ6IZg/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - AT&T SPORTSNET Pittsburgh
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJXrUskTz1LcV2fbMFuv9gk/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - AT&T SportsNet Rocky Mountain
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDHTu33BwLpH-f2RwhDrq28/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPECTRUM SPORTSNET LA DODGERS
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPC2znT2ck0sJlcnp1_CUV8/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPECTRUM SPORTSNET LAKERS
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDiVL3YU9Oa5RNEDdhxC4i8/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORTSNET (NEW YORK)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCIFL83OMwxLoJDXlJ4M3hE/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORTSNET (SOUTHWEST)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGFZulX1x3rly8WIkZyW2ts/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORTSNET NEW YORK
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNcF7pH6F80RMZk7DkJjQ3U/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORTSNET SOUTHWEST*
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAKSeqZTMjdY6KWu_gbuVro/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SportsGrid
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 1 HD (HR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD5YeVHnWEm7dfRkporL1dU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 1 HD (SR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPRGQQZtI1IjWzaisLc5c8g/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 2 HD (HR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SC3coHRuanEjN2irkPwGsBU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 2 HD (SR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEkTkMDsONtdUNwE2gZIW2s/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 3 HD (HR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLkWvBuGE1yOFvt-nrIXnkY/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 3 HD (SR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBVHeXZiLggUBN6UVXbPrec/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 4 HD (HR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFHrUm0v1AE1etzsLTBTePo/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 4 HD (SR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SA9RRzz6ecIHpHGFvxjclUA/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 5 HD (HR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SG2AHCruMR2fW3wKTS3gJDE/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ARENA SPORT 5 HD (SR)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SPVsDoRitrsvSxvt1J7Ec2E/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - PLANETSPORT 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM1ZmnJfnVxLdBHpfI1vCDA/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - PLANETSPORT 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDxEvFTVq8RTJ5HwnpKyV7o/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - PLANETSPORT 3 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEn5x7h71sqTmZLZDodXNLc/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT KLUB 1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF6fGAy4q5Hqtn4XZJXAKOA/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT KLUB 2 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDdm21V8uibPWHvSg8EA-kU/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT KLUB 3 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDK0v6yTmB1FCu5KRqIcjsE/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT KLUB 4 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SOL6LtjWkykjcO8l30SSElw/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT KLUB 5 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SK3zY0IGgBh7OsScQUJ5z4U/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT KLUB 6 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SI95LMEETussMoHjRzDmaWI/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT KLUB HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SDuDQmbMaGfkoJdAxtpS_q4/ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132798?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 2 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132806?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 4 FHD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132804?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SKY SPORT BUNDESLIGA 7 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3408?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378152?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 3 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378150?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 4 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378149?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 5 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378148?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 6 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378147?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 7 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378146?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 8 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378145?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - VIP SKY SPORT 9 HD (Only Live Event)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378144?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - SPORT | Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ALL SPORTS
+http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ALL SPORTS
+http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - ALL SPORTS
+http://168.205.87.198:8555/live/1114/123456/148.ts?checkedby:maxgoogle.com
+#EXTINF:0,maxgoogle.com - BAND SPORTS
+http://168.205.87.198:8555/live/1114/123456/176.ts?checkedby:maxgoogle.com
